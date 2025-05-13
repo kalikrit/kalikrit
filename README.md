@@ -1,6 +1,6 @@
 # Константин Кононенко – программист с 20-летним стажем
 
-![Профиль GitHub - просмотры](https://komarev.com/ghpvc/?username=kalikrit&label= Просмотры+профиля&color=blue&style=flat)
+![Профиль GitHub - просмотры](https://komarev.com/ghpvc/?username=kalikrit&label=Просмотры+профиля&color=blue&style=flat)
 
 > *"Кодирую решения для анализа данных и визуализации"*  
 Python • Pandas • VueJS • JavaScript • Linux • Data Science • BI • Neural Networks
