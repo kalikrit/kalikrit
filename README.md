@@ -1,7 +1,12 @@
 # Константин Кононенко – программист с 20-летним стажем
 
-> *"Кодирую решения для анализа данных и визуализации"*  
-Python • Pandas • VueJS • JavaScript • Linux • Data Science • BI • Neural Networks
+![Профиль GitHub - просмотры](https://komarev.com/ghpvc/?username=konst_kononenko&label= Просмотры+профиля&color=blue&style=flat)
+
+> *"Кодирую решения для анализа данных и визуализации"*
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=konst_kononenko&show_icons=true&theme=dracula )
+
+![Любимые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=konst_kononenko&theme=dracula )
 
 ---
 
