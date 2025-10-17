@@ -18,7 +18,7 @@
 - Реализовал идемпотентную загрузку данных и ежедневное обновление
 - Выявил ключевые метрики роста (мобильный трафик +13.3%)
 
-#### [❤️ Heart Failure Prediction](ссылка_на_репозиторий)
+#### [❤️ Heart Failure Prediction](https://github.com/kalikrit/IA)
 **Binary Classification | Scikit-learn, Pandas**
 - Модель прогнозирования риска сердечной недостаточности
 - Accuracy 87.7%, Recall 100%
