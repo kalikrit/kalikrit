@@ -39,12 +39,6 @@
 
 ---
 
-### 📊 Статистика GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalikrit&layout=compact&theme=radical)](https://github.com/kalikrit)
-
----
-
 ### 📮 Контакты
 - **Telegram:** @konst_kononenko
 - **Email:** kali-krit@ya.ru
