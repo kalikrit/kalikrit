@@ -1,55 +1,53 @@
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/kalikrit/kalikrit/blob/main/ya_pidj.jpg?raw=true" width="160" alt="Аватар" />
-    </td>
-    <td valign="top" width="500">
-      <h2>Привет! 👋</h2>
-      <p><strong>Меня зовут Константин</strong></p>
-      <p>Специализируюсь на анализе и визуализации данных.<p>
-      <p>Мой стэк: Python • Pandas • VueJS • JavaScript • Linux • Data Science • BI • Neural Networks</p>
-      </p> Пиши — обсудим интересные задачи!</p>
-    </td>
-  </tr>
-</table>
+### 👋 Data Scientist & Machine Learning Engineer
 
-## 👨‍💻 О себе:
-Программирую более **20 лет**.  
-Превращаю данные в смысл
+Специализируюсь на построении end-to-end ML решений и ETL-пайплайнов.
 
 ---
 
-## 🔧 Мой технический стэк:
+### 🚀 Ключевые проекты
 
-**Backend & Data:**  
-Python • Pandas • NumPy • SQL • Flask • FastAPI • Jupyter • Docker • Linux  
+#### [🤖 DataGym Bot](https://github.com/kalikrit/sb_bot)
+**Educational Telegram Bot | Python, Pandas, ML**
+- Разработан с нуля бот для практики навыков Data Science
+- Реализована система проверки кода и аналитика пользователей
+- Модель монетизации freemium с платящей аудиторией
 
-**Frontend & UX:**  
-Vue.js • JavaScript • HTML5 • CSS3 • D3.js • Plotly • Chart.js  
+#### [📊 SberAuto Analytics ETL](https://github.com/kalikrit/DE)  
+**Data Engineering | Apache AirFlow, DuckDB, Python**
+- Построил ETL-пайплайн обработки 16M+ событий Google Analytics
+- Реализовал идемпотентную загрузку данных и ежедневное обновление
+- Выявил ключевые метрики роста (мобильный трафик +13.3%)
 
-**ML & AI:**  
-Scikit-learn • TensorFlow • Keras • PyTorch • NLP • Обучение с учителем/без учителя  
-
-**Инструменты:**  
-Git • GitHub • VS Code • Terminal • CLI • CI/CD • Bash  
-
----
-
-## 💡 Интересы:
-- Анализ и обработка данных
-- Построение красивых и информативных визуализаций
-- Разработка BI-решений
-- Исследование возможностей нейронных сетей
-- Оптимизация алгоритмов и архитектур
+#### [❤️ Heart Failure Prediction](ссылка_на_репозиторий)
+**Binary Classification | Scikit-learn, Pandas**
+- Модель прогнозирования риска сердечной недостаточности
+- Accuracy 87.7%, Recall 100%
+- Полный цикл: от EDA до интерпретации моделей
 
 ---
 
-## 📬 Связь и сотрудничество:
+### 🛠 Технический стэк
 
-- 📮 Telegram: [@konst_kononenko](https://t.me/konst_kononenko )
-- 📧 Email: [kali-krit@ya.ru](mailto:kali-krit@ya.ru)
+**Data Science & ML**
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+
+**Data Engineering**  
+`Apache AirFlow` `SQL` `DuckDB` `ETL/ELT` `Data Pipelines`
+
+**Инструменты**
+`Git` `Docker` `Jupyter` `Linux` `FastAPI`
 
 ---
 
-## 🚀 Давайте поработаем вместе!
-Если у вас есть интересные задачи по анализу данных, визуализации или разработке приложений — пишите! Всегда открыт к новым проектам и идеям.
+### 📊 Статистика GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalikrit&layout=compact&theme=radical)](https://github.com/kalikrit)
+
+---
+
+### 📮 Контакты
+- **Telegram:** @konst_kononenko
+- **Email:** kali-krit@ya.ru
+- **Резюме:** [Data Scientist / Machine Learning Engineer](https://korolev.hh.ru/resume/9c72207eff0f8b7a450039ed1f6f4264617461) | [Data Engineer / Python Developer](https://korolev.hh.ru/resume/3097f903ff0f8b84ec0039ed1f4c4c52756976)
+
+Открыт к предложениям по позициям Data Scientist / ML Engineer / Data Engineer
