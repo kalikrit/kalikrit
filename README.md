@@ -10,7 +10,9 @@
 **Educational Telegram Bot | Python, Pandas, ML**
 - Разработан с нуля бот для практики навыков Data Science
 - Реализована система проверки кода и аналитика пользователей
-- Модель монетизации freemium с платящей аудиторией
+- Модель монетизации freemium с платящей аудиторией  
+
+🟢 **Участник грантовой программы Сбербанка "Код без границ" (номинация EdTech)**  
 
 #### [📊 SberAuto Analytics ETL](https://github.com/kalikrit/DE)  
 **Data Engineering | Apache AirFlow, DuckDB, Python**
