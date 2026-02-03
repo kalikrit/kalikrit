@@ -6,7 +6,7 @@
 
 ### 🚀 Ключевые проекты
 
-#### [🤖 DataGym Bot](https://github.com/kalikrit/sb_bot)
+#### [🤖 DataGym Bot](https://github.com/kalikrit/datagym-edtech)
 **Educational Telegram Bot | Python, Pandas, ML**
 - Разработан с нуля бот для практики навыков Data Science
 - Реализована система проверки кода и аналитика пользователей
